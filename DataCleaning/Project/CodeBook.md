@@ -67,6 +67,9 @@ Vectors obtained by averaging the signals in a signal window sample. Jerk mean v
 #### Angle[TOKEN2]GravityMean
 Vectors obtained by averaging the signals in a signal window sample. Mean values gravity: normalized float [-1:1]
 
+----------------------
+
+
  [TOKEN1] should be replaced by correspondent 'Mean'(average value), 'Std' (Standard Deviation value) according to the variable in the set.
 
  [TOKEN2] should be replaced by correspondent 'X'; 'Y; or 'Z' (axis direction) according to the variable in the set.
