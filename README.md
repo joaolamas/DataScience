@@ -9,6 +9,7 @@ The different courses are divided into different folders
 ## R Programming
 
 Scripts to solve some exercises and assignments:
+
 best.R	
 cacheSolve.R	
 makeCacheMatrix.R	
@@ -20,4 +21,5 @@ week2.R
 ## Data Cleaning
 
 Folders with week exercises (week1... week4)
+
 Folder with final Project
